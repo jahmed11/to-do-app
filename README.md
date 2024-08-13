@@ -25,7 +25,7 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/jahmed11/todo-application.git
 
-cd todo-application
+cd to-do-app
 
 Navigate to the Frontend Directory
 
