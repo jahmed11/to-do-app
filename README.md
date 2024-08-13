@@ -9,7 +9,7 @@ This project is a combined frontend and backend Todo application built with Reac
 
 ## Git Repository
 
-[GitHub Repository](https://github.com/jahmed11/todo-application.git)
+[GitHub Repository](https://github.com/jahmed11/to-do-app.git)
 
 ## Prerequisites
 
@@ -23,7 +23,7 @@ Make sure you have the following installed:
 
 
 ```bash
-git clone https://github.com/jahmed11/todo-application.git
+git clone https://github.com/jahmed11/to-do-app.git
 
 cd to-do-app
 
