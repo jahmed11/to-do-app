@@ -64,4 +64,5 @@ npm run dev
 
 ## note
 ## to run both the react app and express server on the same machine
-## Build the frontend app using npm run build and then use dev mode for the backend to serve it as a static route
+## Build the frontend app using npm run build and then use dev mode
+## for the backend to serve it as a static route
